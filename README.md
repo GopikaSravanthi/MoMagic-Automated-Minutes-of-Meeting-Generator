@@ -42,17 +42,21 @@ Preparing Minutes of Meeting manually is time-consuming, and important decisions
 
 ## Sample Output
 
-**Upload interface & live transcription:**
+**Upload interface:**
 
+![Upload Interface](Upload%20interface.jpeg)
 
+**Live transcription:**
+
+![Live Transcription](Live%20transcription.jpeg)
 
 **AI-generated structured minutes:**
 
-
+![Generated Minutes](AI-generated%20structured%20minutes.jpeg)
 
 **Final professional PDF report:**
 
-
+![PDF Report](Final%20professional%20PDF%20report.jpeg)
 
 ## Setup
 
